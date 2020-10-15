@@ -1,4 +1,4 @@
 let obj = {
-  name: 'xiaoming',
+  name: 'xiaohong',
   age: 18
 }
